@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="massimo_intro">Hi, my name is Massimo! I\'m a senior studying CS at NJIT. I love CS388-Android Development</string>
+    <string name="button">Button</string>
+</resources>
